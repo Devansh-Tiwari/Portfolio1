@@ -394,8 +394,8 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/mob.jpg);
-
+        background-image: url(images/mob1.jpg);
+        
     }
 
     .header-text{
